@@ -6,6 +6,7 @@ Scrabble clone made with Raylib library in C++
 <br> - Add better comments to just about everything </br>
 <br> - Refactor TurnHandler to be less of a god class </br>
 <br> - Get better/safer logic across the board </br>
+<br> - Make things look better and cleaner </br>
 
 ## Controls
 <br> Backspace - Recall all tiles on board </br>
