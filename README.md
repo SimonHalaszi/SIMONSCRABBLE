@@ -10,6 +10,10 @@ Scrabble clone made with Raylib library in C++
 <br> Vote Yes and No - Cast vote to to approve of players turn </br>
 <br> Tiles - Click on one your player tiles to select it and click where ever you please to place it </br>
 
+## UI Elements
+<br> Words In Turn - The scoring words in your turn and their point value </br>
+<br> Leaderboard - All the players and their score </br>
+<br> Warning Box - Warns you about selecting your mystery tile, your last turn, and the amount of tiles left in the bag </br>
 
 ## Program Previews
 <br> Example Image </br>
