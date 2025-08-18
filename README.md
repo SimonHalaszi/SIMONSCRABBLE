@@ -4,8 +4,8 @@ Scrabble clone made with Raylib library in C++
 ## TO DO
 <br> Everything is in a working state but these are on the to do list </br>
 <br> - Add better comments to just about everything </br>
-<br> - Refactor Turnhandler to be less of a god class </br>
-<br> - Get better and safer logic across the board </br>
+<br> - Refactor TurnHandler to be less of a god class </br>
+<br> - Get better/safer logic across the board </br>
 
 ## Controls
 <br> Backspace - Recall all tiles on board </br>
