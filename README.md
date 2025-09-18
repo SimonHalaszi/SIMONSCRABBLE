@@ -4,7 +4,7 @@ Scrabble clone made with Raylib library in C++
 ## TO DO
 <br> Everything is in a working state but these are on the to do list </br>
 <br> - Add better comments to just about everything </br>
-<br> - A LOT of refactoring. This bulk of the work was done in about 3 days and the clustering and god classes reflect that </br>
+<br> - A LOT of refactoring. The bulk of the work was done in about 3 days and the clustering and god classes reflect that. Make code base better. </br>
 <br> - Get better/safer logic across the board </br>
 <br> - Make things look better and cleaner </br>
 
